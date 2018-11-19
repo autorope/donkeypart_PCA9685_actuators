@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='donkeypart_PCA9685_actuators',
-      version='0.1.1',
+      version='0.1.2',
       description='Library to control steering and throttle actuators.',
       long_description="no long description given",
       long_description_content_type="text/markdown",
