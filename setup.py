@@ -16,6 +16,7 @@ setup(name='donkeypart_PCA9685_actuators',
       },
       install_requires=['numpy',
                         'gpiozero',
+                        'Adafruit_PCA9685',
                         ],
 
       extras_require={'dev': ['pytest-cov']},
